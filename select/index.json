@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "私は最強",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-01-02T04:00:17.654537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私は最強",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_私は最強_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "私は最強 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_私は最強_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "私は最強 (ウタ from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_私は最強_(ウタ_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "私は最強",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_私は最強_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "私は最強",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_私は最強_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "私は最強 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_私は最強_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "私は最強 (ウタ from ONE PIECE FILM RED) - I’m invincible (UTA from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_私は最強_(ウタ_from_ONE_PIECE_FILM_RED)_-_I’m_invincible_(UTA_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "私は最強",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_私は最強_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "私は最強 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_私は最強_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "私は最強 - I'm invincible",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/10_私は最強_-_I'm_invincible_Ado.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "私は最強 - I’m invincible",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/11_私は最強_-_I’m_invincible_Ado.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "私は最強 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/12_私は最強_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "私は最強 - I’m invincible",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/13_私は最強_-_I’m_invincible_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "私は最強",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/14_私は最強_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "私は最強 - I’m invincible",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/15_私は最強_-_I’m_invincible_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "私は最強 (ウタ from ONE PIECE FILM RED) - I’m invincible (UTA from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/16_私は最強_(ウタ_from_ONE_PIECE_FILM_RED)_-_I’m_invincible_(UTA_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私は最強",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_私は最強_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
